@@ -1,37 +1,21 @@
-# Purpose of This Repo
+### Analyze A/B Test Results
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
-This repo is meant to be used to keep things organized during content development and act as the source of truth for all projects and exercises related to this course.
+For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
 
-## Folder Structure
+### Workspace
+You are provided with a Jupyter workspace in this project. You will see the workspace on the next page. In the workspace, you will find the project's Jupyter Notebook and the dataset.
 
-### Lesson Folder
+You are recommended to use the workspace to complete the project, but if you want to work locally, you can find all the needed files in the Supporting Materials section at the end of the page.
 
-This repo contains a folder for each `lesson` and one `project` folder.
+### Starter Files
+Your goal is to work through the provided Jupyter Notebook(opens in a new tab) to help the company understand if they should implement this new (treatment) page, keep the old (control) page, or perhaps run the experiment longer to make their decision. You can click here(opens in a new tab) to download the data. You will use the data and the Jupyter Notebook to complete the analysis.
 
-Example
-```
-lesson-1-hello
-lesson-2-world
-lesson-3-foo
-lesson-4-bar
-project
-```
+Note that portions of the notebook reference back to quizzes in this lesson to ensure you are on the right track. Although the quizzes are not required to complete the project, you can use them to check your work and ensure you are on the right path.
 
-Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
+Once you have completed the notebook, you will present your results using a presentation template. There are many placeholders in the template that must be replaced with results you obtain from the analysis. If you want to work on the presentation in a PowerPoint file, click here(opens in a new tab) to download the template. Otherwise, you can click here(opens in a new tab) to copy the template as a Google slide file. You only need to complete one of them (they are both the same).
 
-Example
-```
-lesson-1-hello
-```
+### Submission
+By the end of the project, you will submit both the Jupyter Notebook and the presentation deck for grading. So make sure you download or make a copy of the template and fill in all the information required.
 
-Four lesson folders have been provided as a template; However, you may need to add more or possibly use less than four depending on what is needed.
-
-If you require an additional lesson folder, you can make a copy of the folder and paste it into the root directory.
-
-### Exercises Folder
-
-Each `lesson` folder contains an `exercises` folder. This `exercises` folder should contain all files and instructions necessary for the exercises along with the solution. The solutions for these exercises will be shared with students. See the `README` in the `exercises` folder for information about folder structure.
-
-### Project Folder
-
-The `project` folder should contain all files and instructions necessary for setup. If possible, a set of instructions should be provided for both Udacity workspaces and a way to work locally (for both MacOS and Windows OS). At a minimum, one set of instructions should be provided. A `README` template has been provided in the project folder. This template layout should be used to write your README.
+It is required that your project passes each of the Project Rubric(opens in a new tab) items at a level of "meet specifications" to complete the project successfully.
